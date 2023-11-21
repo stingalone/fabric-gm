@@ -1,4 +1,4 @@
-module github.com/hyperledger/fabric
+module github.com/yuanyi/fabric-gm
 
 go 1.20
 

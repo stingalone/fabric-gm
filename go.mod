@@ -1,4 +1,4 @@
-module github.com/yuanyi/fabric-gm
+module github.com/stingalone/fabric-gm
 
 go 1.20
 
